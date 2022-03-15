@@ -1,0 +1,30 @@
+
+  
+.container {
+    height: 10em;
+    position: relative
+    
+
+  }
+
+
+
+.container form {
+    margin: 5px;
+    padding: 10px;
+    position: relative;
+    top: 200%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+button{
+  width: 50px;
+  margin-top:10px;
+  }
+
+input {
+  margin-top:6px;
+  }
